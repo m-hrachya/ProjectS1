@@ -1,6 +1,6 @@
 This project demonstrates how to use an ESP8266 with a DHT22 sensor to read temperature and humidity values. The data is printed to the Serial Monitor.
 
-Hardware Required
+##Hardware Required
 ESP8266 Board (e.g., NodeMCU, Wemos D1 Mini)
 DHT22 Sensor (Temperature and Humidity sensor)
 Jumper Wires
